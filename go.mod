@@ -1,4 +1,4 @@
-module basicCallback
+module github.com/franz-net/basicCallback
 
 go 1.24
 
